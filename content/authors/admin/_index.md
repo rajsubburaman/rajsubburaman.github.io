@@ -121,9 +121,9 @@ work:
       Supervisor: Dr. Oivier Stasse
 
       - Developed a delay robust model predictive control framework to carryout whole-body torque control of humanoids using differential dynamic programming (DDP)      
-      https://youtu.be/BvpZTINLe3c  
+      'https://youtu.be/BvpZTINLe3c'  
       - A whole-body multi contact large object manipulation and estimation framework is synthesized for humanoids using skin patches 
-      https://youtu.be/62A7FSIA4GE  
+      'https://youtu.be/62A7FSIA4GE'  
       - An EKF-based object state estimation framework for dynamic whole-body multi contact manipulation using skin patches.
 
   - position: Postdoctoral Researcher
@@ -132,7 +132,7 @@ work:
     icon: ''
     date_start: 2021-06-01
     date_end: 2023-05-31
-    summary: |
+    summary: |2-
       Research Topic - System identification of mobile robots and nonprehensile manipulation of objects  
       Supervisor: Assoc. Prof. Fabio Ruggiero
 
@@ -146,12 +146,12 @@ work:
     icon: ''
     date_start: 2019-06-01
     date_end: 2020-10-31
-    summary: |
+    summary: |2-
       Research Topic - Parameter Estimation Techniques for Joint Elastic Manipulators  
-      Advisors: Dr. Ferdinando Cannella, Dr. Jinoh Lee and Dr. Mariapaola DImperio
+      Advisors: Dr. Ferdinando Cannella, Dr. Jinoh Lee and Dr. Mariapaola DImperio  
 
       - Carried out a detailed study on the system identification of joint elastic industrial manipulators.  
-      - Conceptualized methods to improve the estimation accuracy of inertial, elasticity and geometric parameters.   
+      - Conceptualized methods to improve the estimation accuracy of inertial, elasticity and geometric parameters.  
       - Developed a software framework to validate the aforementioned methods.
 
 
