@@ -66,23 +66,39 @@ education:
       Thesis on _Fall Prediction and Controlled Fall of Humanoids_. Supervised by Dr. Nikos Tsagarakis and Dr. Jinoh Lee.
 
       Developed a human-inspired multi-sensor based fall prediction technique to predict the fall over of humanoids reliably on different terrains 
-      
-      **Video demo:**  
-      {{< youtube 4VMynVRV2hM >}}
+      **Video demo:**
+      {{https://www.youtube.com/watch?v=4VMynVRV2hM}}
+
+      Proposed two novel controllers based on active energy control concepts: injection, shaping, and distribution to mitigate the damages sustained by a humanoid during its fall over
+      **Video demo:**      
+      {{https://www.youtube.com/watch?v=5PeoZ6_TXHA&t=1s}}
+
+      The proposed controllers are online applicable and adaptable to any arbitrary disturbances 
+      **Video demo:**
+      {{https://www.youtube.com/watch?v=A-sVByTHuSE}}
+
+      Developed a planning and control algorithm to manipulate a large sliding door for the humanoid WALK-MAN to walk through safely for the EU FP7 project WALK-MAN.
+
     #button:
     #  text: 'View Work'
     #  url: 'https://www.youtube.com/watch?v=4VMynVRV2hM'
 
       
-  - area: MSc Bio Mechanical Design
+  - area: MSc Bio Mechanical Design (Specialized in Bio Robotics)
     institution: Delft University of Technology
     icon: ""
     date_start: 2013-09-01
     date_end: 2015-09-30
     summary: |
+
+      Thesis on _General Control Law for Multi-limbed Robots for Pushing Task_   Supervised by Prof. Gabriel Lopez.
+
+      - Analyzed how humans perform the pushing task and synthesized a controller for imbibing similar techniques into multi-limbed robots.  
+      - Given an environment and a pushing task to any multi-limbed robots, the synthesized controller generates control commands to adapt the robot's posture and contacts for achieving the desired task with minimum effort 
+      https://www.youtube.com/watch?v=EFWDJl9IjEg&t=13s
+
       GPA: 7.58
 
-      Specialized in Bio Robotics.
   - area: BE Mechanical Engineering
     institution: Anna University, Chennai, India
     icon: ""
@@ -91,24 +107,52 @@ education:
     summary: |
       Grade: 77%
 
-
+# Research Experience
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Postdoctoral Researcher
+    company_name: Gepetto, LAAS-CNRS, Toulouse, France
+    company_url: 'https://www.laas.fr/en/teams/gepetto/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2023-07-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Research Project - Large object manipulation with humanoids by exploiting whole-body contacts (HoRoPo)  
+      Supervisor: Dr. Oivier Stasse
+
+      Developed a delay robust model predictive control framework to carryout whole-body torque control of humanoids using differential dynamic programming (DDP)      
+      https://youtu.be/BvpZTINLe3c  
+      A whole-body multi contact large object manipulation and estimation framework is synthesized for humanoids using skin patches 
+      https://youtu.be/62A7FSIA4GE  
+      An EKF-based object state estimation framework for dynamic whole-body multi contact manipulation using skin patches.
+  - position: Postdoctoral Researcher
+    company_name: University of Naples Federico II, Naples, Italy
+    company_url: 'https://prisma.dieti.unina.it/'
+    icon: ''
+    date_start: 2021-06-01
+    date_end: 2023-05-31
+    summary: |
+      Research Topic - System identification of mobile robots and nonprehensile manipulation of objects  
+      Supervisor: Assoc. Prof. Fabio Ruggiero
+
+      Developed an integrated system identification framework to identify the dynamic parameters of a mobile base and a manipulator by exploiting their respective dynamic motions 
+      https://youtu.be/nC70n8rbJH8  
+      An agile nonprehensile object transportation controller is proposed for a 7 DoF torque-controlled manipulator by formulating the task as a QP problem https://youtu.be/VeZy41YOQ-w  
+  - position: Postdoctoral Researcher
+    company_name:  Italian Institute of Technology, Genova, Italy Jun 2019 - Oct 2020
+    company_url: 'https://prisma.dieti.unina.it/'
     icon: ''
     date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_end: 2020-10-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Research Topic - Parameter Estimation Techniques for Joint Elastic Manipulators  
+      Advisors: Dr. Ferdinando Cannella, Dr. Jinoh Lee and Dr. Mariapaola DImperio
+
+      Carried out a detailed study on the system identification of joint elastic industrial manipulators.  
+      Conceptualized methods to improve the estimation accuracy of inertial, elasticity and geometric parameters.   
+      Developed a software framework to validate the aforementioned methods.
+
+# PhD Research Experience
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
