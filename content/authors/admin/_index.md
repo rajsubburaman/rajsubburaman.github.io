@@ -110,8 +110,7 @@ education:
 
 # Research Experience
 work:
-  - group: Research Experience
-    position: Postdoctoral Researcher
+  - position: Postdoctoral Researcher
     company_name: Gepetto, LAAS-CNRS, Toulouse, France
     company_url: 'https://www.laas.fr/en/teams/gepetto/'
     icon: ''
@@ -127,8 +126,7 @@ work:
       https://youtu.be/62A7FSIA4GE  
       - An EKF-based object state estimation framework for dynamic whole-body multi contact manipulation using skin patches.
 
-  - group: Research Experience  
-    position: Postdoctoral Researcher
+  - position: Postdoctoral Researcher
     company_name: University of Naples Federico II, Naples, Italy
     company_url: 'https://prisma.dieti.unina.it/'
     icon: ''
@@ -142,8 +140,7 @@ work:
       'https://youtu.be/nC70n8rbJH8'  
       - An agile nonprehensile object transportation controller is proposed for a 7 DoF torque-controlled manipulator by formulating the task as a QP problem 'https://youtu.be/VeZy41YOQ-w' 
    
-  - group: Research Experience 
-    position: Postdoctoral Researcher
+  - position: Postdoctoral Researcher
     company_name:  Italian Institute of Technology, Genova, Italy
     company_url: 'https://prisma.dieti.unina.it/'
     icon: ''
