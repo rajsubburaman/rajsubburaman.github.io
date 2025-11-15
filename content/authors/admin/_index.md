@@ -118,7 +118,7 @@ work:
     date_end: ''
     summary: |2-
       Research Project - Large object manipulation with humanoids by exploiting whole-body contacts (HoRoPo)  
-      Supervisor: Dr. Oivier Stasse
+      Supervisor - Dr. Oivier Stasse
 
       - Developed a delay robust model predictive control framework to carryout whole-body torque control of humanoids using differential dynamic programming (DDP)      
       'https://youtu.be/BvpZTINLe3c'  
@@ -134,7 +134,7 @@ work:
     date_end: 2023-05-31
     summary: |2-
       Research Topic - System identification of mobile robots and nonprehensile manipulation of objects  
-      Supervisor: Assoc. Prof. Fabio Ruggiero
+      Supervisor - Assoc. Prof. Fabio Ruggiero
 
       - Developed an integrated system identification framework to identify the dynamic parameters of a mobile base and a manipulator by exploiting their respective dynamic motions 
       'https://youtu.be/nC70n8rbJH8'  
@@ -148,7 +148,7 @@ work:
     date_end: 2020-10-31
     summary: |2-
       Research Topic - Parameter Estimation Techniques for Joint Elastic Manipulators  
-      Advisors: Dr. Ferdinando Cannella, Dr. Jinoh Lee and Dr. Mariapaola DImperio  
+      Advisors - Dr. Ferdinando Cannella, Dr. Jinoh Lee and Dr. Mariapaola DImperio  
 
       - Carried out a detailed study on the system identification of joint elastic industrial manipulators.  
       - Conceptualized methods to improve the estimation accuracy of inertial, elasticity and geometric parameters.  
