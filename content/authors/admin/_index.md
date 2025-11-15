@@ -144,7 +144,7 @@ work:
    
   - group: Research Experience 
     position: Postdoctoral Researcher
-    company_name:  Italian Institute of Technology, Genova, Italy Jun 2019 - Oct 2020
+    company_name:  Italian Institute of Technology, Genova, Italy
     company_url: 'https://prisma.dieti.unina.it/'
     icon: ''
     date_start: 2019-06-01
