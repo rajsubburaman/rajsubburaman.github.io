@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Rajesh Subburaman
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Rajesh
+last_name: Subburaman
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,65 +23,68 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: LAAS-CNRS
+    url: https://www.laas.fr/en/teams/gepetto/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:rajesh.subburaman@laas.fr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+  #- icon: brands/x
+  #  url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/rajsubburaman
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/rajesh-subburaman-967b6857/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=wAduwMMAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0001-8091-6622
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Whole-body Motion Planning and Control
+  - Optimization
+  - Non-prehensile Manipulation
+  - System Identification
+  - State Estimation
+  - Machine Learning
+  - Design and Fabrication
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD BioEngineering and Robotics (Advanced and Humanoid Robotics)
+    institution: Italian Institute of Technology/University of Genova, Italy
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2015-11-01
+    date_end: 2019-02-28
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Fall Prediction and Controlled Fall of Humanoids_. Supervised by Dr. Nikos Tsagarakis and Dr. Jinoh Lee.
+      Developed a human-inspired multi-sensor based fall prediction technique to predict the fall over of humanoids reliably on different terrains
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      text: 'View Work'
+      url: 'https://www.youtube.com/watch?v=4VMynVRV2hM'
+  - area: MSc Bio Mechanical Design
+    institution: Delft University of Technology
     icon: ""
     date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_end: 2015-09-31
     summary: |
-      GPA: 4.0/4.0
+      GPA: 7.58
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Specialized in Bio Robotics.
+  - area: BE Mechanical Engineering
+    institution: Anna University, Chennai, India
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2005-07-01
+    date_end: 2009-04-30
     summary: |
-      GPA: 3.9/4.0
+      Grade: 77%
 
-      Minored in Mathematics. President of AI Club.
 
 work:
   - position: Senior AI Research Scientist
@@ -169,4 +172,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+My current research interests include multi-sensor fusion, state estimation for humanoids, whole-body motion planning and control for multi-limb robots, whole-body multi-contact object manipulation, system identification of rigid and compliant systems, dynamic nonprehensile manipulation, optimization, and machine learning techniques. My interests also extend to the modeling and simulation of mechanical systems, as well as the design, fabrication, and analysis of mechanical structures and end-effectors for industrial manipulators.
