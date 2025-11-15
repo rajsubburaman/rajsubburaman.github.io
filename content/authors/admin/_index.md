@@ -65,19 +65,20 @@ education:
     summary: |
       Thesis on _Fall Prediction and Controlled Fall of Humanoids_. Supervised by Dr. Nikos Tsagarakis and Dr. Jinoh Lee.
 
-      Developed a human-inspired multi-sensor based fall prediction technique to predict the fall over of humanoids reliably on different terrains 
+      - Developed a human-inspired multi-sensor based fall prediction technique to predict the fall over of humanoids reliably on different terrains 
+      
       **Video demo:**
-      {{https://www.youtube.com/watch?v=4VMynVRV2hM}}
+      {{< youtube 4VMynVRV2hM >}}
 
-      Proposed two novel controllers based on active energy control concepts: injection, shaping, and distribution to mitigate the damages sustained by a humanoid during its fall over
+      - Proposed two novel controllers based on active energy control concepts: injection, shaping, and distribution to mitigate the damages sustained by a humanoid during its fall over
       **Video demo:**      
-      {{https://www.youtube.com/watch?v=5PeoZ6_TXHA&t=1s}}
+      {{< youtube 5PeoZ6_TXHA&t=1s >}}
 
-      The proposed controllers are online applicable and adaptable to any arbitrary disturbances 
+      - The proposed controllers are online applicable and adaptable to any arbitrary disturbances 
       **Video demo:**
-      {{https://www.youtube.com/watch?v=A-sVByTHuSE}}
+      {{< youtube A-sVByTHuSE >}}
 
-      Developed a planning and control algorithm to manipulate a large sliding door for the humanoid WALK-MAN to walk through safely for the EU FP7 project WALK-MAN.
+      - Developed a planning and control algorithm to manipulate a large sliding door for the humanoid WALK-MAN to walk through safely for the EU FP7 project WALK-MAN.
 
     #button:
     #  text: 'View Work'
@@ -109,7 +110,8 @@ education:
 
 # Research Experience
 work:
-  - position: Postdoctoral Researcher
+  - group: Research Experience
+    position: Postdoctoral Researcher
     company_name: Gepetto, LAAS-CNRS, Toulouse, France
     company_url: 'https://www.laas.fr/en/teams/gepetto/'
     icon: ''
@@ -119,12 +121,14 @@ work:
       Research Project - Large object manipulation with humanoids by exploiting whole-body contacts (HoRoPo)  
       Supervisor: Dr. Oivier Stasse
 
-      Developed a delay robust model predictive control framework to carryout whole-body torque control of humanoids using differential dynamic programming (DDP)      
+      - Developed a delay robust model predictive control framework to carryout whole-body torque control of humanoids using differential dynamic programming (DDP)      
       https://youtu.be/BvpZTINLe3c  
-      A whole-body multi contact large object manipulation and estimation framework is synthesized for humanoids using skin patches 
+      - A whole-body multi contact large object manipulation and estimation framework is synthesized for humanoids using skin patches 
       https://youtu.be/62A7FSIA4GE  
-      An EKF-based object state estimation framework for dynamic whole-body multi contact manipulation using skin patches.
-  - position: Postdoctoral Researcher
+      - An EKF-based object state estimation framework for dynamic whole-body multi contact manipulation using skin patches.
+
+  - group: Research Experience  
+    position: Postdoctoral Researcher
     company_name: University of Naples Federico II, Naples, Italy
     company_url: 'https://prisma.dieti.unina.it/'
     icon: ''
@@ -134,10 +138,12 @@ work:
       Research Topic - System identification of mobile robots and nonprehensile manipulation of objects  
       Supervisor: Assoc. Prof. Fabio Ruggiero
 
-      Developed an integrated system identification framework to identify the dynamic parameters of a mobile base and a manipulator by exploiting their respective dynamic motions 
+      - Developed an integrated system identification framework to identify the dynamic parameters of a mobile base and a manipulator by exploiting their respective dynamic motions 
       https://youtu.be/nC70n8rbJH8  
-      An agile nonprehensile object transportation controller is proposed for a 7 DoF torque-controlled manipulator by formulating the task as a QP problem https://youtu.be/VeZy41YOQ-w  
-  - position: Postdoctoral Researcher
+      - An agile nonprehensile object transportation controller is proposed for a 7 DoF torque-controlled manipulator by formulating the task as a QP problem https://youtu.be/VeZy41YOQ-w 
+   
+  - group: Research Experience 
+    position: Postdoctoral Researcher
     company_name:  Italian Institute of Technology, Genova, Italy Jun 2019 - Oct 2020
     company_url: 'https://prisma.dieti.unina.it/'
     icon: ''
@@ -147,11 +153,61 @@ work:
       Research Topic - Parameter Estimation Techniques for Joint Elastic Manipulators  
       Advisors: Dr. Ferdinando Cannella, Dr. Jinoh Lee and Dr. Mariapaola DImperio
 
-      Carried out a detailed study on the system identification of joint elastic industrial manipulators.  
-      Conceptualized methods to improve the estimation accuracy of inertial, elasticity and geometric parameters.   
-      Developed a software framework to validate the aforementioned methods.
+      - Carried out a detailed study on the system identification of joint elastic industrial manipulators.  
+      - Conceptualized methods to improve the estimation accuracy of inertial, elasticity and geometric parameters.   
+      - Developed a software framework to validate the aforementioned methods.
 
 # PhD Research Experience
+  - group: PhD AND Graduate Research Experience
+    position: Phd Student
+    company name: Italian Institute of Technology, Genova, Italy
+    date_start: 2015-11-01
+    date_end: 2019-02-28
+    summary: |
+      PhD Thesis - Fall Prediction and Controlled Fall of Humanoids  
+      Advisors: Dr. Nikos Tsagarakis and Dr. Jinoh Lee
+
+      - Developed a human-inspired multi-sensor based fall prediction technique to predict the fall over of humanoids reliably on different terrains https://www.youtube.com/watch?v=4VMynVRV2hM  
+      - Proposed two novel controllers based on active energy control concepts: injection, shaping, and distribution to mitigate the damages sustained by a humanoid during its fall over https://www.youtube.com/watch?v=5PeoZ6_TXHA&t=1s  
+      - The proposed controllers are online applicable and adaptable to any arbitrary disturbances https://www.youtube.com/watch?v=A-sVByTHuSE  
+      - Developed a planning and control algorithm to manipulate a large sliding door for the humanoid WALK-MAN to walk through safely for the EU FP7 project WALK-MAN.  
+
+  - group: PhD AND Graduate Research Experience
+    position: Graduate Student
+    company name: Delft University of Technology, Delft, Netherlands
+    date_start: 2015-01-01
+    date_end: 2015-09-30
+    summary: |
+      MSc Thesis - General Control Law for Multi-limbed Robots for Pushing   Advisor: Prof. Gabriel Lopez  
+
+      - Analyzed how humans perform the pushing task and synthesized a controller for imbibing similar techniques into multi-limbed robots.  
+      - Given an environment and a pushing task to any multi-limbed robots, the synthesized controller generates control commands to adapt the robot's posture and contacts for achieving the desired task with minimum effort 
+      https://www.youtube.com/watch?v=EFWDJl9IjEg&t=13s
+      
+  - group: PhD AND Graduate Research Experience
+    position: Graduate Intern
+    company name: Italian Institute of Technology, Genova, Italy
+    date_start: 2014-07-01
+    date_end: 2014-12-31
+    summary: | 
+      M.Sc. Internship - Fall Recovery Control for Humanoids  
+      Advisor: Dr. Federico Moro  
+
+      - Envisaged a controller for humanoids to recover from prone to standing configuration by optimizing the contact force using inverse dynamics.  
+      - Numerical validation of the contact force optimization algorithm with a 4 degrees of freedom planar model.  
+      - Design of quasi-static poses and their stability validation using Adams software.
+
+  - group: PhD and Graduate Research Experience
+    position: Graduate Intern
+    company name: Italian Institute of Technology, Genova, Italy
+    date_start: 2014-07-01
+    date_end: 2014-12-31
+    summary: |
+      Bachelor Project - An Autonomous Vacuum Cleaning Robot (VACROB)  
+      Advisor: Asst.Prof. Supriya  
+
+      - To study and critically analyze the existing IRobot’s vacuum cleaning robot, ROOMBA (basic version).  
+      - It involves an indigenous design and fabrication of a robot, and the development of a novel cleaning path algorithm with an aspiration to be more efficient and cost-effective than ROOMBA.  
 
 
 # Skills
