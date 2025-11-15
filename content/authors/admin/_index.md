@@ -139,8 +139,8 @@ work:
       Supervisor: Assoc. Prof. Fabio Ruggiero
 
       - Developed an integrated system identification framework to identify the dynamic parameters of a mobile base and a manipulator by exploiting their respective dynamic motions 
-      https://youtu.be/nC70n8rbJH8  
-      - An agile nonprehensile object transportation controller is proposed for a 7 DoF torque-controlled manipulator by formulating the task as a QP problem https://youtu.be/VeZy41YOQ-w 
+      'https://youtu.be/nC70n8rbJH8'  
+      - An agile nonprehensile object transportation controller is proposed for a 7 DoF torque-controlled manipulator by formulating the task as a QP problem 'https://youtu.be/VeZy41YOQ-w' 
    
   - group: Research Experience 
     position: Postdoctoral Researcher
@@ -167,9 +167,9 @@ work:
       PhD Thesis - Fall Prediction and Controlled Fall of Humanoids  
       Advisors: Dr. Nikos Tsagarakis and Dr. Jinoh Lee
 
-      - Developed a human-inspired multi-sensor based fall prediction technique to predict the fall over of humanoids reliably on different terrains https://www.youtube.com/watch?v=4VMynVRV2hM  
-      - Proposed two novel controllers based on active energy control concepts: injection, shaping, and distribution to mitigate the damages sustained by a humanoid during its fall over https://www.youtube.com/watch?v=5PeoZ6_TXHA&t=1s  
-      - The proposed controllers are online applicable and adaptable to any arbitrary disturbances https://www.youtube.com/watch?v=A-sVByTHuSE  
+      - Developed a human-inspired multi-sensor based fall prediction technique to predict the fall over of humanoids reliably on different terrains 'https://www.youtube.com/watch?v=4VMynVRV2hM'  
+      - Proposed two novel controllers based on active energy control concepts: injection, shaping, and distribution to mitigate the damages sustained by a humanoid during its fall over 'https://www.youtube.com/watch?v=5PeoZ6_TXHA&t=1s'  
+      - The proposed controllers are online applicable and adaptable to any arbitrary disturbances 'https://www.youtube.com/watch?v=A-sVByTHuSE'  
       - Developed a planning and control algorithm to manipulate a large sliding door for the humanoid WALK-MAN to walk through safely for the EU FP7 project WALK-MAN.  
 
   - group: PhD AND Graduate Research Experience
@@ -182,7 +182,7 @@ work:
 
       - Analyzed how humans perform the pushing task and synthesized a controller for imbibing similar techniques into multi-limbed robots.  
       - Given an environment and a pushing task to any multi-limbed robots, the synthesized controller generates control commands to adapt the robot's posture and contacts for achieving the desired task with minimum effort 
-      https://www.youtube.com/watch?v=EFWDJl9IjEg&t=13s
+      'https://www.youtube.com/watch?v=EFWDJl9IjEg&t=13s'
       
   - group: PhD AND Graduate Research Experience
     position: Graduate Intern
