@@ -66,10 +66,14 @@ education:
       Thesis on _Fall Prediction and Controlled Fall of Humanoids_. Supervised by Dr. Nikos Tsagarakis and Dr. Jinoh Lee.
 
       Developed a human-inspired multi-sensor based fall prediction technique to predict the fall over of humanoids reliably on different terrains 
-      https://www.youtube.com/watch?v=4VMynVRV2hM
+      
+      **Video demo:**  
+      {{< youtube 4VMynVRV2hM >}}
     #button:
     #  text: 'View Work'
     #  url: 'https://www.youtube.com/watch?v=4VMynVRV2hM'
+
+      
   - area: MSc Bio Mechanical Design
     institution: Delft University of Technology
     icon: ""
