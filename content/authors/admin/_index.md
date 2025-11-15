@@ -65,21 +65,9 @@ education:
     summary: |
       Thesis on _Fall Prediction and Controlled Fall of Humanoids_. Supervised by Dr. Nikos Tsagarakis and Dr. Jinoh Lee.
 
-      - Developed a human-inspired multi-sensor based fall prediction technique to predict the fall over of humanoids reliably on different terrains 
-      
-      **Video demo:**
-      {{< youtube 4VMynVRV2hM >}}
-
-      - Proposed two novel controllers based on active energy control concepts: injection, shaping, and distribution to mitigate the damages sustained by a humanoid during its fall over
-
-      **Video demo:**      
-      {{< youtube 5PeoZ6_TXHA&t=1s >}}
-
-      - The proposed controllers are online applicable and adaptable to any arbitrary disturbances
-       
-      **Video demo:**
-      {{< youtube A-sVByTHuSE >}}
-
+      - Developed a human-inspired multi-sensor based fall prediction technique to predict the fall over of humanoids reliably on different terrains  
+      - Proposed two novel controllers based on active energy control concepts: injection, shaping, and distribution to mitigate the damages sustained by a humanoid during its fall over  
+      - The proposed controllers are online applicable and adaptable to any arbitrary disturbances  
       - Developed a planning and control algorithm to manipulate a large sliding door for the humanoid WALK-MAN to walk through safely for the EU FP7 project WALK-MAN.
 
     #button:
@@ -97,8 +85,7 @@ education:
       Thesis on _General Control Law for Multi-limbed Robots for Pushing Task_   Supervised by Prof. Gabriel Lopez.
 
       - Analyzed how humans perform the pushing task and synthesized a controller for imbibing similar techniques into multi-limbed robots.  
-      - Given an environment and a pushing task to any multi-limbed robots, the synthesized controller generates control commands to adapt the robot's posture and contacts for achieving the desired task with minimum effort 
-      https://www.youtube.com/watch?v=EFWDJl9IjEg&t=13s
+      - Given an environment and a pushing task to any multi-limbed robots, the synthesized controller generates control commands to adapt the robot's posture and contacts for achieving the desired task with minimum effort  
 
       GPA: 7.58
 
@@ -122,11 +109,9 @@ work:
       Research Project - Large object manipulation with humanoids by exploiting whole-body contacts (HoRoPo)  
       Supervisor - Dr. Oivier Stasse
 
-      - Developed a delay robust model predictive control framework to carryout whole-body torque control of humanoids using differential dynamic programming (DDP)      
-      'https://youtu.be/BvpZTINLe3c'  
-      - A whole-body multi contact large object manipulation and estimation framework is synthesized for humanoids using skin patches 
-      'https://youtu.be/62A7FSIA4GE'  
-      - An EKF-based object state estimation framework for dynamic whole-body multi contact manipulation using skin patches.
+      - Developed a delay robust model predictive control framework to carryout whole-body torque control of humanoids using differential dynamic programming (DDP)  
+      - A whole-body multi contact large object manipulation and estimation framework is synthesized for humanoids using skin patches  
+      - An EKF-based object state estimation framework for dynamic whole-body multi contact manipulation using skin patches.  
 
   - position: Postdoctoral Researcher
     company_name: University of Naples Federico II, Naples, Italy
@@ -138,9 +123,8 @@ work:
       Research Topic - System identification of mobile robots and nonprehensile manipulation of objects  
       Supervisor - Assoc. Prof. Fabio Ruggiero
 
-      - Developed an integrated system identification framework to identify the dynamic parameters of a mobile base and a manipulator by exploiting their respective dynamic motions 
-      'https://youtu.be/nC70n8rbJH8'  
-      - An agile nonprehensile object transportation controller is proposed for a 7 DoF torque-controlled manipulator by formulating the task as a QP problem 'https://youtu.be/VeZy41YOQ-w' 
+      - Developed an integrated system identification framework to identify the dynamic parameters of a mobile base and a manipulator by exploiting their respective dynamic motions    
+      - An agile nonprehensile object transportation controller is proposed for a 7 DoF torque-controlled manipulator by formulating the task as a QP problem
    
   - position: Postdoctoral Researcher
     company_name:  Italian Institute of Technology, Genova, Italy
