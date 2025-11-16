@@ -57,18 +57,14 @@ interests:
   - Design and Fabrication
 
 education:
-  - area: PhD BioEngineering and Robotics (Advanced and Humanoid Robotics)
+  - area: PhD BioEngineering and Robotics 
     institution: Italian Institute of Technology/University of Genova, Italy
     icon: ""
     date_start: 2015-11-01
     date_end: 2019-02-28
     summary: |
-      Thesis on _Fall Prediction and Controlled Fall of Humanoids_. Supervised by Dr. Nikos Tsagarakis and Dr. Jinoh Lee.
-
-      - Developed a human-inspired multi-sensor based fall prediction technique to predict the fall over of humanoids reliably on different terrains  
-      - Proposed two novel controllers based on active energy control concepts: injection, shaping, and distribution to mitigate the damages sustained by a humanoid during its fall over  
-      - The proposed controllers are online applicable and adaptable to any arbitrary disturbances  
-      - Developed a planning and control algorithm to manipulate a large sliding door for the humanoid WALK-MAN to walk through safely for the EU FP7 project WALK-MAN.
+      Curriculum - Advanced and Humanoid Robotics  
+      Supervised by Dr. Nikos Tsagarakis and Dr. Jinoh Lee.
 
     #button:
     #  text: 'View Work'
@@ -81,8 +77,7 @@ education:
     date_start: 2013-09-01
     date_end: 2015-09-30
     summary: |
-  
-
+      Specialized in Bio Robotics  
       GPA: 7.58
 
   - area: BE Mechanical Engineering
@@ -92,6 +87,16 @@ education:
     date_end: 2009-04-30
     summary: |
       Grade: 77%
+
+  - area: Higher Secondary School
+    institution: Robert Matriculation Higher Secondary School, Chennai, India
+    icon: ""
+    date_start: 2003-04-01 
+    date_end: 2005-04-30
+    summary: |2-
+      SSLC, Metric board - 89%
+      PU Exam - 92%
+
 
 # Research Experience
 work:
@@ -107,6 +112,7 @@ work:
       Supervisor - Dr. Oivier Stasse
 
       - Developed a delay robust model predictive control framework to carryout whole-body torque control of humanoids using differential dynamic programming (DDP)  
+      [<i class="fab fa-youtube fa-lg"></i> Video Demo](https://youtu.be/BvpZTINLe3c)
       - A whole-body multi contact large object manipulation and estimation framework is synthesized for humanoids using skin patches  
       - An EKF-based object state estimation framework for dynamic whole-body multi contact manipulation using skin patches.  
 
@@ -174,8 +180,8 @@ work:
 
   - position: Bachelor Student
     company name: Anna University, Chennai, India
-    data_start: 2008-04-01
-    data_end: 2009-04-30
+    date_start: 2008-04-01
+    date_end: 2009-04-30
     summary: |2-
       Bachelor Project - _An Autonomous Vacuum Cleaning Robot (VACROB)_ 
       Advisor - Asst.Prof. Supriya
