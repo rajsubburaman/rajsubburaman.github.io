@@ -99,8 +99,7 @@ education:
 
 # Research Experience
 work:
-  - group: Research Experience
-    position: Postdoctoral Researcher
+  - position: Postdoctoral Researcher
     company_name: Gepetto, LAAS-CNRS, Toulouse, France
     company_url: 'https://www.laas.fr/en/teams/gepetto/'
     icon: ''
@@ -114,8 +113,7 @@ work:
       - A whole-body multi contact large object manipulation and estimation framework is synthesized for humanoids using skin patches  
       - An EKF-based object state estimation framework for dynamic whole-body multi contact manipulation using skin patches.  
 
-  - group: Research Experience
-    position: Postdoctoral Researcher
+  - position: Postdoctoral Researcher
     company_name: University of Naples Federico II, Naples, Italy
     company_url: 'https://prisma.dieti.unina.it/'
     icon: ''
@@ -128,8 +126,7 @@ work:
       - Developed an integrated system identification framework to identify the dynamic parameters of a mobile base and a manipulator by exploiting their respective dynamic motions    
       - An agile nonprehensile object transportation controller is proposed for a 7 DoF torque-controlled manipulator by formulating the task as a QP problem
    
-  - group: Research Experience 
-    position: Postdoctoral Researcher
+  - position: Postdoctoral Researcher
     company_name:  Italian Institute of Technology, Genova, Italy
     company_url: 'https://prisma.dieti.unina.it/'
     icon: ''
@@ -143,8 +140,7 @@ work:
       - Conceptualized methods to improve the estimation accuracy of inertial, elasticity and geometric parameters.  
       - Developed a software framework to validate the aforementioned methods.
 
-  - group: PhD and Graduate Research
-    position: Phd Student
+  - position: Phd Student
     company name: Italian Institute of Technology, Genova, Italy
     date_start: 2015-11-01
     date_end: 2019-02-28
