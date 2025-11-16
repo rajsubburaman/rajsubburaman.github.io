@@ -94,7 +94,7 @@ education:
     date_start: 2003-04-01 
     date_end: 2005-04-30
     summary: |2-
-      SSLC, Metric board - 89%
+      SSLC, Metric board - 89%  
       PU Exam - 92%
 
 
@@ -112,8 +112,9 @@ work:
       Supervisor - Dr. Oivier Stasse
 
       - Developed a delay robust model predictive control framework to carryout whole-body torque control of humanoids using differential dynamic programming (DDP)  
-      [<i class="fab fa-youtube fa-lg"></i> Video Demo](https://youtu.be/BvpZTINLe3c)
+      [{{< icon name="youtube" pack="fab" >}}](https://youtu.be/BvpZTINLe3c)
       - A whole-body multi contact large object manipulation and estimation framework is synthesized for humanoids using skin patches  
+      [{{< icon name="youtube" pack="fab" >}}] (https://youtu.be/62A7FSIA4GE)
       - An EKF-based object state estimation framework for dynamic whole-body multi contact manipulation using skin patches.  
 
   - position: Postdoctoral Researcher
@@ -131,7 +132,7 @@ work:
    
   - position: Postdoctoral Researcher
     company_name:  Italian Institute of Technology, Genova, Italy
-    company_url: 'https://prisma.dieti.unina.it/'
+    company_url: 'https://inbot.iit.it/'
     icon: ''
     date_start: 2019-06-01
     date_end: 2020-10-31
@@ -145,6 +146,7 @@ work:
 
   - position: Phd Student
     company name: Italian Institute of Technology, Genova, Italy
+    company url: 'https://hhcm.iit.it/'
     date_start: 2015-11-01
     date_end: 2019-02-28
     summary: |
@@ -158,6 +160,7 @@ work:
 
   - position: Graduate Student
     company name: Delft University of Technology, Delft, Netherlands
+    company url: 'https://www.tudelft.nl/en/me'
     date_start: 2015-01-01
     date_end: 2015-09-30
     summary: |2-
@@ -168,6 +171,7 @@ work:
 
   - position: Graduate Intern
     company name: Italian Institute of Technology, Genova, Italy
+    company url: 'https://hhcm.iit.it/'
     date_start: 2014-07-01
     date_end: 2014-12-31
     summary: |2-
@@ -180,6 +184,7 @@ work:
 
   - position: Bachelor Student
     company name: Anna University, Chennai, India
+    company url: 'https://auttvl.ac.in/departments/mechanical-engineering/index.html'
     date_start: 2008-04-01
     date_end: 2009-04-30
     summary: |2-
