@@ -81,11 +81,7 @@ education:
     date_start: 2013-09-01
     date_end: 2015-09-30
     summary: |
-
-      Thesis on _General Control Law for Multi-limbed Robots for Pushing Task_   Supervised by Prof. Gabriel Lopez.
-
-      - Analyzed how humans perform the pushing task and synthesized a controller for imbibing similar techniques into multi-limbed robots.  
-      - Given an environment and a pushing task to any multi-limbed robots, the synthesized controller generates control commands to adapt the robot's posture and contacts for achieving the desired task with minimum effort  
+  
 
       GPA: 7.58
 
@@ -100,19 +96,19 @@ education:
 # Research Experience
 work:
   - group: Research Experience
-    - position: Postdoctoral Researcher
-      company_name: Gepetto, LAAS-CNRS, Toulouse, France
-      company_url: 'https://www.laas.fr/en/teams/gepetto/'
-      icon: ''
-      date_start: 2023-07-01
-      date_end: ''
-      summary: |2-
-        Research Project - Large object manipulation with humanoids by exploiting whole-body contacts (HoRoPo)  
-        Supervisor - Dr. Oivier Stasse
+  - position: Postdoctoral Researcher
+    company_name: Gepetto, LAAS-CNRS, Toulouse, France
+    company_url: 'https://www.laas.fr/en/teams/gepetto/'
+    icon: ''
+    date_start: 2023-07-01
+    date_end: ''
+    summary: |2-
+      Research Project - Large object manipulation with humanoids by exploiting whole-body contacts (HoRoPo)  
+      Supervisor - Dr. Oivier Stasse
 
-        - Developed a delay robust model predictive control framework to carryout whole-body torque control of humanoids using differential dynamic programming (DDP)  
-        - A whole-body multi contact large object manipulation and estimation framework is synthesized for humanoids using skin patches  
-        - An EKF-based object state estimation framework for dynamic whole-body multi contact manipulation using skin patches.  
+      - Developed a delay robust model predictive control framework to carryout whole-body torque control of humanoids using differential dynamic programming (DDP)  
+      - A whole-body multi contact large object manipulation and estimation framework is synthesized for humanoids using skin patches  
+      - An EKF-based object state estimation framework for dynamic whole-body multi contact manipulation using skin patches.  
 
   - position: Postdoctoral Researcher
     company_name: University of Naples Federico II, Naples, Italy
@@ -154,6 +150,38 @@ work:
       - The proposed controllers are online applicable and adaptable to any arbitrary disturbances    
       - Developed a planning and control algorithm to manipulate a large sliding door for the humanoid WALK-MAN to walk through safely for the EU FP7 project WALK-MAN.  
 
+  - position: Graduate Student
+    company name: Delft University of Technology, Delft, Netherlands
+    date_start: 2015-01-01
+    date_end: 2015-09-30
+    summary: |2-
+      Thesis on _General Control Law for Multi-limbed Robots for Pushing Task_   Supervised by Prof. Gabriel Lopez.
+
+      - Analyzed how humans perform the pushing task and synthesized a controller for imbibing similar techniques into multi-limbed robots.  
+      - Given an environment and a pushing task to any multi-limbed robots, the synthesized controller generates control commands to adapt the robot's posture and contacts for achieving the desired task with minimum effort
+
+  - position: Graduate Intern
+    company name: Italian Institute of Technology, Genova, Italy
+    date_start: 2014-07-01
+    date_end: 2014-12-31
+    summary: |2-
+      MSc. Internship - _Fall Recovery Control for Humanoids_  
+      Supervised by Dr. Federico Moro
+
+      - Envisaged a controller for humanoids to recover from prone to standing configuration by optimizing the contact force using inverse dynamics.
+      - Numerical validation of the contact force optimization algorithm with a 4 degrees of freedom planar model.
+      - Design of quasi-static poses and their stability validation using Adams software. 
+
+  - position: Bachelor Student
+    company name: Anna University, Chennai, India
+    data_start: 2008-04-01
+    data_end: 2009-04-30
+    summary: |2-
+      Bachelor Project - _An Autonomous Vacuum Cleaning Robot (VACROB)_ 
+      Advisor - Asst.Prof. Supriya
+
+      - To study and critically analyze the existing IRobot’s vacuum cleaning robot, ROOMBA (basic version).
+      - It involves an indigenous design and fabrication of a robot, and the development of a novel cleaning path algorithm with an aspiration to be more efficient and cost-effective than ROOMBA.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
