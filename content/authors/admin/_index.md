@@ -111,8 +111,8 @@ work:
       Research Project - Large object manipulation with humanoids by exploiting whole-body contacts (HoRoPo)  
       Supervisor - Dr. Oivier Stasse
 
-      - Developed a delay robust model predictive control framework to carryout whole-body torque control of humanoids using differential dynamic programming (DDP)[{{< icon: brands/youtube >}}](https://youtu.be/BvpZTINLe3c)  
-      - A whole-body multi contact large object manipulation and estimation framework is synthesized for humanoids using skin patches[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/62A7FSIA4GE)  
+      - Developed a delay robust model predictive control framework to carryout whole-body torque control of humanoids using differential dynamic programming (DDP)[{{< icon name="youtube" pack="fab" >}} **View Work**](https://youtu.be/BvpZTINLe3c)  
+      - A whole-body multi contact large object manipulation and estimation framework is synthesized for humanoids using skin patches[{{< icon name="youtube" pack="fab" >}} **View Work**](https://youtu.be/62A7FSIA4GE)  
       - An EKF-based object state estimation framework for dynamic whole-body multi contact manipulation using skin patches.  
 
   - position: Postdoctoral Researcher
