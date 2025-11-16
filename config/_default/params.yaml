@@ -60,3 +60,9 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+icon:
+  set: "fontawesome"
+  pack:
+    fab: true
+    fas: true    
