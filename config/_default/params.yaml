@@ -55,6 +55,7 @@ locale:
 # Site features
 features:
   oembed: true
+  font_awesome: true
   math:
     enable: false
   privacy_pack:
