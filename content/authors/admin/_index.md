@@ -126,7 +126,9 @@ work:
       Supervisor - Assoc. Prof. Fabio Ruggiero
 
       - Developed an integrated system identification framework to identify the dynamic parameters of a mobile base and a manipulator by exploiting their respective dynamic motions    
-      - An agile nonprehensile object transportation controller is proposed for a 7 DoF torque-controlled manipulator by formulating the task as a QP problem
+      [{{< icon name="youtube" pack="fab" >}} **View Work**](https://youtu.be/nC70n8rbJH8)
+      - An agile nonprehensile object transportation controller is proposed for a 7 DoF torque-controlled manipulator by formulating the task as a QP problem  
+      [{{< icon name="youtube" pack="fab" >}} **View Work**](https://youtu.be/VeZy41YOQ-w)
    
   - position: Postdoctoral Researcher
     company_name:  Italian Institute of Technology, Genova, Italy
@@ -152,6 +154,7 @@ work:
       Advisors: Dr. Nikos Tsagarakis and Dr. Jinoh Lee
 
       - Developed a human-inspired multi-sensor based fall prediction technique to predict the fall over of humanoids reliably on different terrains  
+      [{{< icon name="youtube" pack="fab" >}} **View Work**](https://www.youtube.com/watch?v=4VMynVRV2hM)
       - Proposed two novel controllers based on active energy control concepts: injection, shaping, and distribution to mitigate the damages sustained by a humanoid during its fall over  
       - The proposed controllers are online applicable and adaptable to any arbitrary disturbances    
       - Developed a planning and control algorithm to manipulate a large sliding door for the humanoid WALK-MAN to walk through safely for the EU FP7 project WALK-MAN.  
