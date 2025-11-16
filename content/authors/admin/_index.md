@@ -111,8 +111,10 @@ work:
       Research Project - Large object manipulation with humanoids by exploiting whole-body contacts (HoRoPo)  
       Supervisor - Dr. Oivier Stasse
 
-      - Developed a delay robust model predictive control framework to carryout whole-body torque control of humanoids using differential dynamic programming (DDP)[{{< icon name="youtube" pack="fab" >}} **View Work**](https://youtu.be/BvpZTINLe3c)  
-      - A whole-body multi contact large object manipulation and estimation framework is synthesized for humanoids using skin patches[{{< icon name="youtube" pack="fab" >}} **View Work**](https://youtu.be/62A7FSIA4GE)  
+      - Developed a delay robust model predictive control framework to carryout whole-body torque control of humanoids using differential dynamic programming (DDP)  
+      [{{< icon name="youtube" pack="fab" >}} **View Work**](https://youtu.be/BvpZTINLe3c)  
+      - A whole-body multi contact large object manipulation and estimation framework is synthesized for humanoids using skin patches  
+      [{{< icon name="youtube" pack="fab" >}} **View Work**](https://youtu.be/62A7FSIA4GE)  
       - An EKF-based object state estimation framework for dynamic whole-body multi contact manipulation using skin patches.  
 
   - position: Postdoctoral Researcher
@@ -156,7 +158,9 @@ work:
       - Developed a human-inspired multi-sensor based fall prediction technique to predict the fall over of humanoids reliably on different terrains  
       [{{< icon name="youtube" pack="fab" >}} **View Work**](https://www.youtube.com/watch?v=4VMynVRV2hM)
       - Proposed two novel controllers based on active energy control concepts: injection, shaping, and distribution to mitigate the damages sustained by a humanoid during its fall over  
+      [{{< icon name="youtube" pack="fab" >}} **View Work**](https://www.youtube.com/watch?v=5PeoZ6_TXHA&t=1s)
       - The proposed controllers are online applicable and adaptable to any arbitrary disturbances    
+      [{{< icon name="youtube" pack="fab" >}} **View Work**](https://www.youtube.com/watch?v=A-sVByTHuSE)
       - Developed a planning and control algorithm to manipulate a large sliding door for the humanoid WALK-MAN to walk through safely for the EU FP7 project WALK-MAN.  
 
   - position: Graduate Student
@@ -168,7 +172,8 @@ work:
       Thesis on _General Control Law for Multi-limbed Robots for Pushing Task_   Supervised by Prof. Gabriel Lopez.
 
       - Analyzed how humans perform the pushing task and synthesized a controller for imbibing similar techniques into multi-limbed robots.  
-      - Given an environment and a pushing task to any multi-limbed robots, the synthesized controller generates control commands to adapt the robot's posture and contacts for achieving the desired task with minimum effort
+      - Given an environment and a pushing task to any multi-limbed robots, the synthesized controller generates control commands to adapt the robot's posture and contacts for achieving the desired task with minimum effort  
+      [{{< icon name="youtube" pack="fab" >}} **View Work**](https://www.youtube.com/watch?v=EFWDJl9IjEg&t=13s)
 
   - position: Graduate Intern
     company name: Italian Institute of Technology, Genova, Italy
