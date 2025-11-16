@@ -99,19 +99,20 @@ education:
 
 # Research Experience
 work:
-  - position: Postdoctoral Researcher
-    company_name: Gepetto, LAAS-CNRS, Toulouse, France
-    company_url: 'https://www.laas.fr/en/teams/gepetto/'
-    icon: ''
-    date_start: 2023-07-01
-    date_end: ''
-    summary: |2-
-      Research Project - Large object manipulation with humanoids by exploiting whole-body contacts (HoRoPo)  
-      Supervisor - Dr. Oivier Stasse
+  - group: Research Experience
+    - position: Postdoctoral Researcher
+      company_name: Gepetto, LAAS-CNRS, Toulouse, France
+      company_url: 'https://www.laas.fr/en/teams/gepetto/'
+      icon: ''
+      date_start: 2023-07-01
+      date_end: ''
+      summary: |2-
+        Research Project - Large object manipulation with humanoids by exploiting whole-body contacts (HoRoPo)  
+        Supervisor - Dr. Oivier Stasse
 
-      - Developed a delay robust model predictive control framework to carryout whole-body torque control of humanoids using differential dynamic programming (DDP)  
-      - A whole-body multi contact large object manipulation and estimation framework is synthesized for humanoids using skin patches  
-      - An EKF-based object state estimation framework for dynamic whole-body multi contact manipulation using skin patches.  
+        - Developed a delay robust model predictive control framework to carryout whole-body torque control of humanoids using differential dynamic programming (DDP)  
+        - A whole-body multi contact large object manipulation and estimation framework is synthesized for humanoids using skin patches  
+        - An EKF-based object state estimation framework for dynamic whole-body multi contact manipulation using skin patches.  
 
   - position: Postdoctoral Researcher
     company_name: University of Naples Federico II, Naples, Italy
