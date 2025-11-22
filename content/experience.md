@@ -23,9 +23,15 @@ sections:
       columns: "1"
     content:
       title: 'Industrial Experience'
-      subtitle: 'ABB Robots - Design Engineer'
       text: |-
+        **ABB Robots – Design Engineer**
+
         I designed end-effectors for manipulators and fixtures for welding components.
+
+        **Key Responsibilities**
+        - Designed robot end-effectors for assembly and welding
+        - Developed custom welding fixtures
+        - Performed tolerance analysis and validation
         
   - block: resume-skills
     content:
