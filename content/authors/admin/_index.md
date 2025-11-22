@@ -281,7 +281,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Finalists: Best Oral Presentation Award
+  - title: Finalists- Best Oral Presentation Award
     url: https://2024.ieee-humanoids.org/program-glance/awards/
     date: '2024-11-24'
     awarder: IEEE Humanoids
