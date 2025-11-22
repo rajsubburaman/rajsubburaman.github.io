@@ -18,19 +18,19 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
-  - block: markdown
+  - block: experience
     content:
       title: 'Industrial Experience'
       items:
-    - title: "Design Engineer"
-      company: "ABB Robotics"
-      location: "Your Location"
-      date_start: "2022-01-01"
-      date_end: "2023-12-31"
-      description: |-
-        - Designed end-effectors for manipulators
-        - Developed welding fixtures
-        - Performed design validation
+      - title: "Design Engineer"
+        company: "ABB Robotics"
+        location: "Your Location"
+        date_start: "2022-01-01"
+        date_end: "2023-12-31"
+        description: |-
+          - Designed end-effectors for manipulators
+          - Developed welding fixtures
+          - Performed design validation
         
   - block: resume-skills
     content:
