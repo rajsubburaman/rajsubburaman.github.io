@@ -205,18 +205,36 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
+      - name: Modeling Software
+        description: 'Solid Works, Solid Edge, Catia, and AutoCAD'
+        #percent: 95
+        #icon: code-bracket
+      - name: Mechanical System Analysis Software
+        description: 'ANSYS V13, and MSC Adams'
+        #percent: 100
+        #icon: chart-bar
+      - name: Robot Simulation Platforms
+        description: 'Gazebo, PyBullet, CoppeliaSim, and Robot Studio 5.14'
+        #percent: 85
+        #icon: cloud
+      - name: Programming Languages
+        description: 'C, C++, bash, and Java(basic)'
+      - name: Numerical Computing Environment
+        description: 'Matlab and Python'
+      - name: Operating Systems
+        description: 'Linux, ROS and Windows'
+      - name: Communication Protocols
+        description: 'EtherCAT, TwinCAT3, and CAN'
+      - name: Numerical Optimization Solvers
+        description: 'OSQP, CasADi, qpOASES, acados, and Crocoddyl'
+      - name: Development Tools
+        description: 'Github, Gitlab, and Bitbucket'
+  - name: Other Skills
+    items:
+      - name: IT Applications
+        description: 'Microsoft Office Suite, Inkscape, and Latex'
+      - name: Languages
+        description: 'Proficient in English, few Indian languages, Italian (basic), and French (basic)'
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
