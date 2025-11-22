@@ -203,9 +203,9 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Modeling and Simulation
     items:
-      - name: Modeling Software
+      - name: Modeling Softwares
         description: 'Solid Works, Solid Edge, Catia, and AutoCAD'
         #percent: 95
         #icon: code-bracket
@@ -216,19 +216,33 @@ skills:
       - name: Robot Simulation Platforms
         description: 'Gazebo, PyBullet, CoppeliaSim, and Robot Studio 5.14'
         #percent: 85
-        #icon: cloud
+        #icon: cloud 
+  - name: Robotics Software Skills
+    items:
       - name: Programming Languages
         description: 'C, C++, bash, and Java(basic)'
-      - name: Numerical Computing Environment
-        description: 'Matlab and Python'
       - name: Operating Systems
         description: 'Linux, ROS and Windows'
+  - name: Programming and Numerical Computing
+    items:
       - name: Communication Protocols
         description: 'EtherCAT, TwinCAT3, and CAN'
+      - name: Numerical Computing Environment
+        description: 'Matlab and Python'
+  - name: Optimization and Development Tools
+    items:
       - name: Numerical Optimization Solvers
         description: 'OSQP, CasADi, qpOASES, acados, and Crocoddyl'
       - name: Development Tools
         description: 'Github, Gitlab, and Bitbucket'
+  - name: Robot Hardware Skills
+    items:
+      - name: Humanoid Systems
+        description: 'Talos, COMAN+, and WALK-MAN'
+      - name: Mobile Robots
+        description: 'Mobile YuMi (ABB research platform)'
+      - name: Manipulators
+        description: 'KUKA LBR iiwa, 7-DoF elastic manipulator, and ABB industrial manipulators'
   - name: Other Skills
     items:
       - name: IT Applications
