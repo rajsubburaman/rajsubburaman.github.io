@@ -253,23 +253,27 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Hiking
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
+      - name: Travel and Explore
+        description: 'Exploring new places, their culture, and cuisine.'
+        #percent: 90
+        #icon: cpu-chip
+      - name: Reading
+        description: 'Sci-Fi, scientific, biographies, historical, philosophical, and motivational books.'
         percent: 70
         icon: book-open
 
 languages:
   - name: English
     percent: 100
-  - name: Spanish
+  - name: Tamil and Saurashtra
+    percent: 100
+  - name: Hindi
+    percent: 80
+  - name: Italian and French
     percent: 50
 
 # Awards.
@@ -277,27 +281,14 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: Finalists: Best Oral Presentation Award
+    url: https://2024.ieee-humanoids.org/program-glance/awards/
+    date: '2024-11-24'
+    awarder: IEEE Humanoids
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Presented an experimental work carried out on the Talos humanoid under the title 'Delay Robust Model Predictive Control For Whole-Body Torque Control of Humanoids' at the IEEE Humanoids 2024 conference.
+  
 ---
 
 My current research interests include multi-sensor fusion, state estimation for humanoids, whole-body motion planning and control for multi-limb robots, whole-body multi-contact object manipulation, system identification of rigid and compliant systems, dynamic nonprehensile manipulation, optimization, and machine learning techniques. My interests also extend to the modeling and simulation of mechanical systems, as well as the design, fabrication, and analysis of mechanical structures and end-effectors for industrial manipulators.
