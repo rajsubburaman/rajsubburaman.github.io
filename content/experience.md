@@ -18,6 +18,13 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
+  - block: markdown
+    content:
+      title: 'Industrial Experience'
+      subtitle: 'ABB Robots - Design Engineer'
+      text: |-
+        I designed end-effectors for manipulators and fixtures for welding components.
+        
   - block: resume-skills
     content:
       title: Skills & Hobbies
