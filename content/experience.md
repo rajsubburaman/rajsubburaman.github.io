@@ -19,7 +19,8 @@ sections:
       # Education or Experience section first?
       is_education_first: true
   - block: markdown
-    align: left
+    design:
+      columns: "1"
     content:
       title: 'Industrial Experience'
       subtitle: 'ABB Robots - Design Engineer'
