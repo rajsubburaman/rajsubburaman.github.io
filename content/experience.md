@@ -25,7 +25,7 @@ sections:
       title: 'Industrial Experience'
       text: |-
         <div style="font-size: 1.0rem;">
-        <strong>💼 ABB Robots – Design Engineer</strong>  
+        <strong>💼 ABB Robots – Design Engineer</strong><br>
         ABB Robotics, Bangalore, India  
         January 2011 - August 2013
 
