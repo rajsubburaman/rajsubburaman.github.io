@@ -34,11 +34,6 @@ sections:
 
         </div>
 
-  #- block: markdown
-  #  design:
-  #    columns: "1"
-  #  content:
-      text: |-
         <div style="font-size: 1.0rem;">
         <strong>💼 Execution Engineer</strong><br>
         ABB Robotics, Bangalore, India<br>    
