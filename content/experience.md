@@ -33,6 +33,21 @@ sections:
         - Developed custom welding fixtures
         - Performed tolerance analysis and validation
         
+  - block: experience
+    content:
+      title: "Industrial Experience"
+  - items:
+    - title: "Design Engineer"
+      company: "ABB Robotics"
+      location: "Your Location"
+      date_start: "2022-01-01"
+      date_end: "2023-12-31"
+      description: |-
+        - Designed end-effectors for manipulators and welding applications
+        - Developed custom welding fixtures
+        - Performed tolerance analysis and design validation
+        - Collaborated with cross-functional teams
+        
   - block: resume-skills
     content:
       title: Skills & Hobbies
