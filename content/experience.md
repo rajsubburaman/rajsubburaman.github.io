@@ -25,14 +25,12 @@ sections:
       title: 'Industrial Experience'
       text: |-
         <div style="font-size: 1.0rem;">
-        <strong>ABB Robots – Design Engineer</strong>
+        <strong>💼 ABB Robots – Design Engineer</strong>  
+        ABB Robotics, Bangalore, India  
+        January 2011 - August 2013
 
-        I designed end-effectors for manipulators and fixtures for welding components.
-
-        **Key Responsibilities**
-        - Designed robot end-effectors for assembly and welding
-        - Developed custom welding fixtures
-        - Performed tolerance analysis and validation
+        - Designing application specific gripper and fixture, robot simulation with a virtual cell to ascertain cycle time, robot reach, collision, etc., and vendor inspection of the manufactured items.
+        - Projects handled- Asian Paints, Castrol, Sundaram Clayton, Castwel, Wheels India Ltd., Wipro, and Dran.
 
         </div>
 
