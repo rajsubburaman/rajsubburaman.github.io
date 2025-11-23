@@ -44,11 +44,6 @@ sections:
 
         </div>
 
-  - block: markdown
-    design:
-      columns: "1"
-    content:
-      text: |-
         <div style="font-size: 1.0rem;">
         <strong>💼 Proposal Engineer</strong><br>
         ABB Robotics, Bangalore, India<br>    
@@ -61,11 +56,6 @@ sections:
 
         </div>
 
-  - block: markdown
-    design:
-      columns: "1"
-    content:
-      text: |-
         <div style="font-size: 1.0rem;">
         <strong>💼 Structural Analyst</strong><br>
         ABB Power Products, Nasik, India<br>    
@@ -75,6 +65,26 @@ sections:
         - Project Handled: CISD (Compact Improvised Switchgear Device) breaker structure.
 
         </div>
+
+  - block: markdown
+    design:
+      columns: "1"
+    content:
+      title: 'Industrial Research Experience'
+      text: |-
+        <div style="font-size: 1.0rem;">
+        <strong>🤖 Design Engineer</strong><br>
+        ABB Robotics, Bangalore, India<br>    
+        2012 - 2013
+
+        - Research topic: Compliant, Self-centering, Heavy Duty Gripper with Outer Diameter (OD) Safety
+          - Designed and developed an Impact Mechanical Gripper with an outer diameter safety feature for the IRB7600 robot (ABB) to handle a component of 1.5m diameter and weighing 150kg. It was developed for the company, Wheels India Ltd.
+        - Research topic: Lightweight Profile Compliant Gripper
+          - Designed and developed a Profile Compliant Positive Locking Gripper with inflatable bladders for lifting four buckets each weighing 32 kg. It was developed for a private company, Asian Paints Ltd.
+
+        </div>
+
+
 
   - block: resume-skills
     content:
