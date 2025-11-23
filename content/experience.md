@@ -32,8 +32,8 @@ sections:
         - Designed robot end-effectors for assembly and welding
         - Developed custom welding fixtures
         - Performed tolerance analysis and validation
-        
-  - block: experience
+
+  - block: markdown
     content:
       title: "Industrial Experience"
   - items:
