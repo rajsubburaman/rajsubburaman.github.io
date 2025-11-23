@@ -22,6 +22,42 @@ sections:
     design:
       columns: "1"
     content:
+      title: 'Supervisor/Mentor Experience'
+      text: |-
+        <div style="font-size: 1.0rem;">
+        <strong>👨‍🏫 Master Thesis Supervision</strong><br>
+        LAAS-CNRS, Toulouse, France<br>    
+        February - July 2025
+
+        Thesis title - *Object State Estimation for Whole-Body Dynamic Manipulation on Humanoid Robots*
+
+        </div>
+
+        <div style="font-size: 1.0rem;">
+        <strong>👨‍🏫 Master Internship Supervision</strong><br>
+        Italian Institute of Technology, Genova, Italy<br>    
+        July 2019 - February 2020
+
+        Internship Topic - *System identification of manipulators with elastic joints*
+
+        </div>
+
+        <div style="font-size: 1.0rem;">
+        <strong>👨‍🏫 Undergraduate Project Co-Supervision</strong><br>
+        ABB Robotics, Bangalore, India<br>    
+        January - May 2010
+
+        Project Title - *Pick and place application with ABB flexpicker robot*
+        </div>
+
+
+
+
+
+  - block: markdown
+    design:
+      columns: "1"
+    content:
       title: 'Industrial Experience'
       text: |-
         <div style="font-size: 1.0rem;">
