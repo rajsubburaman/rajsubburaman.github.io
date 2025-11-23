@@ -24,8 +24,8 @@ sections:
     content:
       title: 'Industrial Experience'
       text: |-
-        <div style="font-size: 0.9rem;">
-        **ABB Robots – Design Engineer**
+        <div style="font-size: 1.0rem;">
+        <strong>ABB Robots – Design Engineer</strong>
 
         I designed end-effectors for manipulators and fixtures for welding components.
 
