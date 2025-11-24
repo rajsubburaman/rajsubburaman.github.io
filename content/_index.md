@@ -34,11 +34,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        I am working as a postdoctoral researcher at LAAS-CNRS, Toulouse, France. My researcher activities here are mainly associated with the HoRoPo project (https://www.horopo.io/). In particular, I work on the whole-body manipulation of large and heavy objects by exploiting multiple contacts distributed across the robot's upper body. The research activities are carried out on Talos, a torque-controlled humanoid platform. 
+        
+        Within the framework of the HoRoPo project, I have worked on various research topics such as delay robust MPC based on DDP, object-contact state estimation during whole-body manipulation, object parameter estimation through dynamic manipulation, and robust and dynamic manipulation of objects with the feedback of skin patches. 
     design:
       columns: '1'
   - block: collection
