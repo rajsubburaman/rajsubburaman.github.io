@@ -13,7 +13,7 @@ tags:
 ## Project Demo
 
 <iframe width="700" height="400"
-src="https://youtu.be/Q9cRN9jKKho"
+src="https://www.youtube.com/embed/Q9cRN9jKKho"
 frameborder="0"
 allowfullscreen>
 </iframe>
