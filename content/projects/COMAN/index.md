@@ -1,6 +1,6 @@
 ---
 title: Controlled Fall with COMAN+ Humanoid
-date: 2018-2019
+date: 2017-06-20
 #links:
 #  - type: site
 #    url: https://github.com/pandas-dev/pandas
@@ -22,4 +22,5 @@ This video shows the controlled fall motion of the COMAN+ humanoid in the Gazebo
 *Subburaman, Rajesh, Nikos G. Tsagarakis, and Jinoh Lee. "Online rolling motion generation for humanoid falls based on active energy control concepts." 2018 IEEE-RAS 18th International Conference on Humanoid Robots (Humanoids). IEEE, 2018.*
 
 ### Multi-Modal State Estimate
+
 A multi-modal state estimate is proposed by fusing the foot-pressure sensors, IMUs, and joint encoders (through forward kinematics) with an extended Kalman filter (EKF). This estimator gives not only position, velocity, and orientation of the base but also the orientation of the foot which is critical for successful execution of the above controlled fall motions in humanoids. In addition, the proposed state estimator can estimate the base accurately not just on flat terrains but also on uneven terrains. The picture shown above is an rviz visualization of the state estimator results. 
