@@ -1,6 +1,6 @@
 ---
 title: Door Opening with WALK-MAN Humanoid
-date: 2026-03-18
+date: 2017-06-20
 #links:
 #  - type: site
 #    url: https://github.com/pandas-dev/pandas
@@ -10,7 +10,7 @@ date: 2026-03-18
 #  - Markdown
 ---
 
-## Project Demo
+## EU Project - WALK-MAN
 
 ### Sliding Door Opening Simulation
 <iframe width="700" height="400"
