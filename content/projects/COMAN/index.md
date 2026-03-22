@@ -19,6 +19,7 @@ allowfullscreen>
 </iframe>
 
 This video shows the controlled fall motion of the COMAN+ humanoid in the Gazebo simulator. The controlled fall motion in four major directions: forward, backward, left-side, and right-side are shown. The generated motion is more dynamic and it is similar to the Ukemi or parkour roll motions exhibited by trained humans. This controlled fall motion is generated using the rolling motion generation controller proposed in the paper given below:
+
 *Subburaman, Rajesh, Nikos G. Tsagarakis, and Jinoh Lee. "Online rolling motion generation for humanoid falls based on active energy control concepts." 2018 IEEE-RAS 18th International Conference on Humanoid Robots (Humanoids). IEEE, 2018.*
 
 ### Multi-Modal State Estimate
