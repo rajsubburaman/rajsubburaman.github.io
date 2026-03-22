@@ -9,7 +9,7 @@ date: 2026-03-18
 #  - HugoBlox
 #  - Markdown
 ---
-pxedAtASoNQ
+
 ## Project Demo
 
 ### Sliding Door Opening Simulation
@@ -38,5 +38,9 @@ allowfullscreen>
 </iframe>
 
 The experimental validation of the WALK-MAN humanoid opening a sliding door is shown here. The experiment was carried out in a mockup setup at Firenze, Italy. The entire execution was carried out with the ADVR Humanoids team under Nikos Tsagarakis, the team leader.
+
+***People Involved:*** Jinoh Lee, Cheng Fang, Rajesh Subburaman
+***Contribution:*** Development of the whole-body control plugin, and evaluation of the controller in simulation.
+
 
 <!--more-->
