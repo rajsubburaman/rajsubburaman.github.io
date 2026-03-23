@@ -21,4 +21,6 @@ hugoblox:
 links:
   - type: pdf
     url: "https://www.researchgate.net/profile/Dimitrios-Kanoulas/publication/335131534_Human_inspired_fall_prediction_method_for_humanoid_robots/links/5ea6910d299bf11256128755/Human-inspired-fall-prediction-method-for-humanoid-robots.pdf"
+  - type: Video
+    url: "https://youtu.be/4VMynVRV2hM"
 ---

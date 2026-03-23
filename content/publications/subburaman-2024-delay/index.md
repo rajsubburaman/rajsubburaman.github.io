@@ -18,4 +18,6 @@ hugoblox:
 links:
   - type: pdf
     url: "https://ieeexplore.ieee.org/document/10769888"
+  - type: Video
+    url: "https://youtu.be/BvpZTINLe3c"
 ---
