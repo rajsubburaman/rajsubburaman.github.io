@@ -20,6 +20,6 @@ hugoblox:
 links:
   - type: pdf
     url: "https://www.researchgate.net/publication/327805194_Online_Falling-Over_Control_of_Humanoids_Exploiting_Energy_Shaping_and_Distribution_Methods"
-  - type: Video
+  - name: Video
     url: "https://youtu.be/5PeoZ6_TXHA"
 ---

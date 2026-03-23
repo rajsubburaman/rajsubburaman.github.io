@@ -27,6 +27,6 @@ links:
   #  url: https://www.slideshare.net/
   #- type: source
   #  url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: Video
+  - name: Video
     url: "https://youtu.be/62A7FSIA4GE"
 ---

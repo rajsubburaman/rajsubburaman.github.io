@@ -20,6 +20,6 @@ hugoblox:
 links:
   - type: pdf
     url: "https://www.researchgate.net/profile/Mario-Selvaggio-2/publication/370167462_A_Non-Prehensile_Object_Transportation_Framework_With_Adaptive_Tilting_Based_on_Quadratic_Programming/links/64a66f29b9ed6874a5fdc9f8/A-Non-Prehensile-Object-Transportation-Framework-With-Adaptive-Tilting-Based-on-Quadratic-Programming.pdf"
-  - type: Video
+  - name: Video
     url: "https://youtu.be/VeZy41YOQ-w"
 ---

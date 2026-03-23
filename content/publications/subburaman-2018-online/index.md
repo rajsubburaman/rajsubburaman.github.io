@@ -20,6 +20,6 @@ hugoblox:
 links:
   - type: pdf
     url: "https://www.researchgate.net/profile/Rajesh-Subburaman/publication/330626048_Online_Rolling_Motion_Generation_for_Humanoid_Falls_Based_on_Active_Energy_Control_Concepts/links/60839379881fa114b423c5c5/Online-Rolling-Motion-Generation-for-Humanoid-Falls-Based-on-Active-Energy-Control-Concepts.pdf"
-  - type: Video
+  - name: Video
     url: "https://youtu.be/A-sVByTHuSE"
 ---
