@@ -43,4 +43,9 @@ The experimental validation of the WALK-MAN humanoid opening a sliding door is s
 ***Contribution:*** Development of the whole-body control plugin, and evaluation of the controller in simulation.
 
 
+© 2026 Rajesh Subburaman. All rights reserved.
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 <!--more-->
