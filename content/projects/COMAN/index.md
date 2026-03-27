@@ -36,3 +36,9 @@ An experimental evaluation of a whole-body inverse kinematics controller on the 
 <img src="Cogimon_state.png" width="600">
 
 A multi-modal state estimate is proposed by fusing the foot-pressure sensors, IMUs, and joint encoders (through forward kinematics) with an extended Kalman filter (EKF). This estimator gives not only position, velocity, and orientation of the base but also the orientation of the foot which is critical for successful execution of the above controlled fall motions in humanoids. In addition, the proposed state estimator can estimate the base accurately not just on flat terrains but also on uneven terrains. The picture shown above is an rviz visualization of the state estimator results. 
+
+© 2026 Rajesh Subburaman. All rights reserved.
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).

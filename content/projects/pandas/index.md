@@ -21,4 +21,10 @@ allowfullscreen>
 ### Description
 This video shows the execution of a whole-body trajectory optimally designed to excite the inertial parameters of various links of a dual-arm mobile robot. The trajectory is designed considering an integrated dynamics model, i.e., both the arms and its mobile base.
 
+© 2026 Rajesh Subburaman. All rights reserved.
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
 <!--more-->
