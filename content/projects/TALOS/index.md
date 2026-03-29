@@ -30,4 +30,26 @@ allowfullscreen>
 
 This video shows the Talos humanoid manipulating a large carton box weighing 0.75kg using two forearm contacts. The manipulation involves the following phases: i)Approach, ii) Grasp, iii) Lift, iv)Manipulate, v) Drop, and vi) UnGrasp. Similar to the above experiment, the motion is realized using the WBMC-MPC controller in torque mode. The skin patch data are actively used inside the controller.
 
+<iframe width="700" height="400"
+src="https://www.youtube.com/embed/QX7-wfMnFRo"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+This shows the skin patch data collected during the manipulation experiment being relayed to RViz for real-time visualization. In particular, the following data are displayed: active skin cells (red), resultant absolute acceleration (magenta), and the resultant force acting at the corresponding location, represented in the contact frame (green).
+
 *Journal publication is in progress with better experiments and results*
+
+### EKF-based Object-Contact State Estimation [Journal Publication in Progress !!!]
+
+<iframe width="700" height="400"
+src="https://www.youtube.com/embed/7LLgcj8oSso"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+An EKF-based object contact state estimator is proposed to estimate its evolution during the dynamic whole-body manipulation of an object. The proposed estimator can estimate the following variables: object pose, twist, contact pose, linear velocity, and contact wrench. The video shows the preliminary evaluation results of the estimator carried out with a manipulation data generated from the gazebo simulator. The green box represents the predicted pose and the blue color denotes its actual pose.
+
+***People Involved:*** Rajesh Subburaman, Francesco Rachiglia, Olivier Stasse
+
+*Journal publication is in progress with experiments and results*
