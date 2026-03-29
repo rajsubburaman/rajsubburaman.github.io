@@ -53,3 +53,39 @@ An EKF-based object contact state estimator is proposed to estimate its evolutio
 ***People Involved:*** Rajesh Subburaman, Francesco Rachiglia, Olivier Stasse
 
 *Journal publication is in progress with experiments and results*
+
+### Object Dynamics-Aware Whole-Body Multicontact Manipulation [UnPublished]
+The following videos shows the whole-body multicontact manipulation of heavy objects with its dynamics integrated into the WBMC-MPC controller. The evaluation of the proposed controller is carried out with the mujoco simulator. The skin patches attached to the Talos humanoid's upperbody are shown as rigid bodies (orange) with its contact dynamics simulated using the simulator's inbuilt contact sensor.
+
+**Large Box - 2 contacts**
+<iframe width="700" height="400"
+src="https://www.youtube.com/embed/j3mCSX30yn0"
+frameborder="0"
+allowfullscreen>
+</iframe>
+Box weighing 5kg is being manipulated with two forearm contacts.
+
+**Small Cylinder - 3 contacts**
+<iframe width="700" height="400"
+src="https://www.youtube.com/embed/_YRkp3b8dak"
+frameborder="0"
+allowfullscreen>
+</iframe>
+A small cylinder weighing 5kg is being manipulated here with three contacts (2-forearm, 1-torso). Since the object is slightly far from the torso, the robot pulls the object towards it with two forearm contacts and then grasps and lifts it with three contacts.
+
+**Large Cylinder - 5 contacts**
+<iframe width="700" height="400"
+src="https://www.youtube.com/embed/Fpi1Z6JJ8yM"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+A large cylinder weighing 5kg is manipulated here with five contacts in total (2-forearm, 2-shoulder, 1-torso).
+
+*The work will soon be published in a Conference/Journal with additional works.*
+
+© 2026 Rajesh Subburaman. All rights reserved.
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
