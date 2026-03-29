@@ -23,7 +23,7 @@ This video shows the execution of an optimal excitation trajectory on a kuka-iiw
 **Inverse Dynamic Control**
 
 <iframe width="700" height="400"
-src="https://www.youtube.com/embed/0PjW3cASIUU
+src="https://www.youtube.com/embed/9dIguLlNvDY
 frameborder="0"
 allowfullscreen>
 </iframe>

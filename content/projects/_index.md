@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: I enjoy working with mobile robots, particularly humanoids, because they present significant challenges. Below is a selection of projects I have worked on over the years, including in my current position at LAAS-CNRS. The projects presented here are either unpublished or expected to be published soon. For my published work, please refer to the “Papers” section, where you can find links to the papers, videos, and related materials.
       filters:
         folders:
           - projects
