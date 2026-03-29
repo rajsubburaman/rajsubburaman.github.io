@@ -21,7 +21,7 @@ allowfullscreen>
 
 The video shows the Talos humanoid grasping and lifting a large carton box using two forearm contacts. The motion is planned such that the contacts occur on skin patches attached to the humanoid's forearms. The complete motion is executed using a whole-body multicontact model predictive control framework (WBMC-MPC), solved in real time with a DDP-based solver. The humanoid is controlled in torque mode throughout the entire experiment.
 
-### Carton Box Manipulation Experiment [Journal Publication in Progress !!!]
+### Carton Box Manipulation Experiment [Journal Publication in Progress]
 <iframe width="700" height="400"
 src="https://www.youtube.com/embed/JIccBCjknMI"
 frameborder="0"
@@ -40,7 +40,7 @@ This shows the skin patch data collected during the manipulation experiment bein
 
 *Journal publication is in progress with better experiments and results*
 
-### EKF-based Object-Contact State Estimation [Journal Publication in Progress !!!]
+### EKF-based Object-Contact State Estimation [Journal Publication in Progress]
 
 <iframe width="700" height="400"
 src="https://www.youtube.com/embed/7LLgcj8oSso"
@@ -54,7 +54,7 @@ An EKF-based object contact state estimator is proposed to estimate its evolutio
 
 *Journal publication is in progress with experiments and results*
 
-### Object Dynamics-Aware Whole-Body Multicontact Manipulation [UnPublished]
+### Object Dynamics-Aware Whole-Body Multicontact Manipulation [soon to be published]
 The following videos shows the whole-body multicontact manipulation of heavy objects with its dynamics integrated into the WBMC-MPC controller. The evaluation of the proposed controller is carried out with the mujoco simulator. The skin patches attached to the Talos humanoid's upperbody are shown as rigid bodies (orange) with its contact dynamics simulated using the simulator's inbuilt contact sensor.
 
 **Large Box - 2 contacts**
@@ -82,7 +82,7 @@ allowfullscreen>
 
 A large cylinder weighing 5kg is manipulated here with five contacts in total (2-forearm, 2-shoulder, 1-torso).
 
-*The work will soon be published in a Conference/Journal with additional works.*
+*The work will soon be published in a Conference/Journal with more details and additional evaluations.*
 
 © 2026 Rajesh Subburaman. All rights reserved.
 

@@ -10,8 +10,9 @@ date: 2026-03-18
 #  - Markdown
 ---
 
-## System Identification Motion - Simulation
+## System Identification Motion
 
+**Gazebo simulator evaluation**
 <iframe width="700" height="400"
 src="https://www.youtube.com/embed/Q9cRN9jKKho"
 frameborder="0"
@@ -21,8 +22,8 @@ allowfullscreen>
 ### Description
 This video shows the execution of a whole-body trajectory optimally designed to excite the inertial parameters of various links of a dual-arm mobile robot. The trajectory is designed considering an integrated dynamics model, i.e., both the arms and its mobile base.
 
-## System Identification Motion - Experiments
 
+**Experimental validation on the real system**
 <iframe width="700" height="400"
 src="https://www.youtube.com/embed/nC70n8rbJH8"
 frameborder="0"
@@ -31,8 +32,17 @@ allowfullscreen>
 
 The optimal inertial parameter exciting whole-body motion is executed on a dual-arm mobile platform. 
 
-## Joint Friction Parameter Identification Experiment
+## Joint Friction Parameter Identification
 
+**Gazebo Simulator Evaluation**
+<iframe width="700" height="400"
+src="https://www.youtube.com/embed/KKSSFjJDm3A"
+frameborder="0"
+allowfullscreen>
+</iframe>
+This video shows the execution of a joint friction parameter identification motion on joint 1 of the left arm of the YuMi mobile robot.
+
+**Identification Experiments on the Real System**
 <iframe width="700" height="400"
 src="https://www.youtube.com/embed/jrg8RaE2BYU"
 frameborder="0"

@@ -18,7 +18,7 @@ frameborder="0"
 allowfullscreen>
 </iframe>
 
-This video shows the execution of an optimal excitation trajectory on a kuka-iiwa arm. The excitation trajectory is optimized to excite the inertial parameters of various links of the kuka manipulator. 
+This video shows the execution of an optimal excitation trajectory on a kuka-iiwa arm. The excitation trajectory is optimized to excite the inertial parameters of the various links of the kuka manipulator. 
 
 ## Inverse Dynamic Control
 
