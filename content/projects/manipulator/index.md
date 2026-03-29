@@ -10,7 +10,7 @@ date: 2026-03-27
 #  - Markdown
 ---
 
-## System Identification Motion
+**System Identification Motion**
 
 <iframe width="700" height="400"
 src="https://www.youtube.com/embed/I5yS1-u7xJo"
@@ -20,7 +20,7 @@ allowfullscreen>
 
 This video shows the execution of an optimal excitation trajectory on a kuka-iiwa arm. The excitation trajectory is optimized to excite the inertial parameters of the various links of the kuka manipulator. 
 
-## Inverse Dynamic Control
+**Inverse Dynamic Control**
 
 <iframe width="700" height="400"
 src="https://www.youtube.com/embed/0PjW3cASIUU
